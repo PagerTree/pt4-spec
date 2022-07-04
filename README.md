@@ -65,7 +65,7 @@ This is a list of the features we already generally support. Unless it's in the 
   - Comments - Alerts will now have a comment history.
   - Subscribers - This could be stakeholders or individual emails.
 - Integrations
-  - Open source integrations - So the community can author their own integrations. Repo can be found here: [TODO]
+  - Open source integrations - So the community can author their own integrations. Repo can be found here: [https://github.com/PagerTree/pager_tree-integrations](https://github.com/PagerTree/pager_tree-integrations)
 - Teams
   - Notes sections
 - Schedules / Event / Escalation Rules / Routers
